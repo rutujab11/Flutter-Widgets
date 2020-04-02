@@ -7,3 +7,5 @@ Flutter Widgets used in this application:
 6. Icon
 7. IconButton
 8. Date Time Picker
+9. Floating Action Button
+10. Sized Box
